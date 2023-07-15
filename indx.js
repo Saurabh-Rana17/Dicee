@@ -14,9 +14,9 @@ document.querySelector(".img1").setAttribute("src", randomImg1);
 document.querySelector(".img2").setAttribute("src", randomImg2);
 
 if (randomInt1 > randomInt2) {
-    document.querySelector("h1").innerHTML = "Player 1 won🚩 "
+    document.querySelector("h1").innerHTML = "Player 1 won 🚩"
 } else if (randomInt1 < randomInt2) {
-    document.querySelector("h1").innerHTML = "Player 2 won🚩 "
+    document.querySelector("h1").innerHTML = "Player 2 won 🚩 "
 
 } else {
     document.querySelector("h1").innerHTML = "Draw"
