@@ -12,3 +12,6 @@ document.querySelector(".img1").setAttribute("src", "randomImg1");
 var randomImg2 = dicelist[randomInt2];
 document.querySelector(".img2").setAttribute("src", "randomImg2");
 
+if (randomInt1 > randomInt2) {
+    
+}
