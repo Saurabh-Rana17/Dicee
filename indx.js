@@ -1,3 +1,4 @@
+alert("connected");
 var randomInt1 = Math.random() * 6;
 randomInt1 = Math.floor(randomInt1);
 
